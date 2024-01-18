@@ -1,2 +1,2 @@
 # monster rolodex
-## fun project made by using React js 
+Monster Rolodex is a fun project that i made during react classes..
