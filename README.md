@@ -1,2 +1,2 @@
 # monster rolodex
-Monster Rolodex is a fun project that i made during react classes..
+Monster Rolodex: A project that interacts with API with the ability to filter and search, you can easily navigate
